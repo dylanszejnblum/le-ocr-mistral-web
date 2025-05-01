@@ -4,7 +4,7 @@
 
 LeChat OCR Web is a powerful web application that extracts text from images and PDF documents using Optical Character Recognition (OCR) technology. It leverages the Mistral AI OCR API to process documents and provides seamless integration with AI assistants including LeChat, ChatGPT, and Claude for further analysis of the extracted text.
 
-![LeChat OCR Web](screenshot.jpeg)
+![LeChat OCR Web](/public/images/screenshot.jpeg)
 
 ## Features
 
