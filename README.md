@@ -4,7 +4,7 @@
 
 LeChat OCR Web is a powerful web application that extracts text from images and PDF documents using Optical Character Recognition (OCR) technology. It leverages the Mistral AI OCR API to process documents and provides seamless integration with AI assistants including LeChat, ChatGPT, and Claude for further analysis of the extracted text.
 
-![LeChat OCR Web](public/images.png)
+![LeChat OCR Web](screenshot.jpeg)
 
 ## Features
 
@@ -55,19 +55,14 @@ LeChat OCR Web is a powerful web application that extracts text from images and 
    yarn install
    ```
 
-3. Create a `.env` file in the root directory (optional for local development):
-   ```
-   VITE_MISTRAL_API_KEY=your_mistral_api_key_here
-   ```
-
-4. Start the development server:
+3. Start the development server:
    ```bash
    npm run dev
    # or
    yarn dev
    ```
 
-5. Open your browser and navigate to `http://localhost:5173`
+4. Open your browser and navigate to `http://localhost:5173`
 
 ## Usage
 
